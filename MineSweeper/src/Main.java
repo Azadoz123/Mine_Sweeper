@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        // Değerlendirme formu 5
         //crate mine sweeper class
         MineSweeper mineSweeper = new MineSweeper();
         //Start game
